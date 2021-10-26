@@ -8,9 +8,8 @@ Primeira versão de uma Landing Page de página única com o tema sobre vaporwav
 * Bootstrap;
 * HTML.
 
-## :rocket: Rascunho do projeto
-![image](https://user-images.githubusercontent.com/89136471/138781418-9fcdf1d6-245d-4c48-a125-583a6746262a.png)
-
+## :rocket: Veja meu projeto clicando aqui:
+https://quirky-darwin-13257e.netlify.app/
 
 ## :handshake: Colaboradores
 <table>
@@ -26,4 +25,4 @@ Primeira versão de uma Landing Page de página única com o tema sobre vaporwav
 </table>
 
 ## :dart: Status do projeto
-Em andamento...
+Concluido
