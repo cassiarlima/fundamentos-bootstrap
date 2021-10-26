@@ -2,7 +2,7 @@
 <h1 align="center">:file_cabinet: # fundamentos-bootstrap</h1>
 
 ## :memo: Descrição
-Primeira versão de uma Landing Page de página única com o tema sobre vaporwave.
+Landing Page de página única com o tema sobre vaporwave.
 
 ## :wrench: Tecnologias utilizadas
 * Bootstrap;
